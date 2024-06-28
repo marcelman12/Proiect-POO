@@ -1,0 +1,40 @@
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\Database1.mdf
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\Database1_log.ldf
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\POO.exe.config
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\POO.exe
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\POO.pdb
+C:\Users\alexi\OneDrive\Desktop\new po\POO\bin\Debug\dje\POO.resources.dll
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.HomeS.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.HomeP.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.HomeAdmin.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.HomeSecretar.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.Login.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.Note.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.HomeSecretar.dje.resources
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\dje\POO.resources.dll
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.exe
+C:\Users\alexi\OneDrive\Desktop\new po\POO\obj\Debug\POO.pdb
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\baza_date.mdf
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\baza_date_log.ldf
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\POO.exe.config
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\POO.exe
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\POO.pdb
+C:\Users\buzdu\Downloads\new poO\new poO\POO\bin\Debug\dje\POO.resources.dll
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.HomeS.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.HomeP.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.HomeAdmin.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.HomeSecretar.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.Login.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.Note.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.Properties.Resources.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.HomeSecretar.dje.resources
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.csproj.GenerateResource.cache
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\dje\POO.resources.dll
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.exe
+C:\Users\buzdu\Downloads\new poO\new poO\POO\obj\Debug\POO.pdb
